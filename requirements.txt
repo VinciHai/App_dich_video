@@ -1,7 +1,5 @@
 streamlit
 google-generativeai
 SpeechRecognition
-moviepy==1.0.3
-numpy
-imageio==2.4.1
+moviepy<2.0
 imageio-ffmpeg
